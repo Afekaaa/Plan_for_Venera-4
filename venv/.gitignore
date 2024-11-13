@@ -2,8 +2,7 @@
 __pycache__/
 *.py[cod]
 
-venv/
-.env
+../venv
 
 dist/
 *.egg-info/
@@ -14,5 +13,4 @@ dist/
 
 *.py,cover
 
-./
-*.py
+../SubOrbitalFlight.py
